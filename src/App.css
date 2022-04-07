@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.account-info {
+  min-width: 500px;
+  width: 90vw;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-style: ridge;
+  display: flex;
+  justify-content: space-between;
+}
+
+.row-info{
+  display: flex;
+  justify-content: space-between;
+}
+.loading{
+  width: 100%;
+    height: 100%;
+    position: absolute;
+    backdrop-filter: blur(2px);
+}
+
+/* .text-address {
+  width: 50vw
+} */

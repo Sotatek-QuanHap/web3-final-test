@@ -1,0 +1,11 @@
+{
+    "NETWORK_URLS": {
+        "1": "https://mainnet.infura.io/v3/17e530c6e930457583f470611e141988",
+        "4": "https://rinkeby.infura.io/v3/17e530c6e930457583f470611e141988",
+        "5": "https://goerli.infura.io/v3/17e530c6e930457583f470611e141988"
+    },
+    "WALLETCONNECT_BRIDGE_URL": "https://bridge.walletconnect.org",
+    "CONTRACT_ADDRESS": "0xc778417e063141139fce010982780140aa0cd5ab",
+    "MASTERCHEF_CONTRACT_ADDRESS": "0x9da687e88b0A807e57f1913bCD31D56c49C872c2",
+    "API_URL_SUBGRAPH": "https://api.thegraph.com/subgraphs/name/sotatek-quanhap/final"
+}
